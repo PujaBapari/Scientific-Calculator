@@ -1,17 +1,19 @@
-# 🧮 Scientific Calculator (Python)
+ 🧮 Scientific Calculator (Python GUI)
 
-A simple **Scientific Calculator** implemented in Python.  
-It works in two modes:
-- **Colab/Jupyter Mode (GUI with ipywidgets)**  
-- **Text Mode (Terminal/Console)**  
+A modern **Scientific Calculator** built with **Python** and **Tkinter**, featuring trigonometric functions, logarithms, square root, history panel, and a sleek GUI.
 
 ---
 
-## 🚀 Features
-- Supports basic operations: `+ - * / ^ √`
-- Trigonometric functions in degrees: `sin`, `cos`, `tan`
-- Logarithm (base 10): `log(x)`
-- Safe evaluation using restricted `eval` (only math functions allowed)
-- Dual mode:
-  - **GUI (ipywidgets)** if running inside Colab/Jupyter Notebook
-  - **Text Mode** if running in terminal
+## ✨ Features
+- ✅ **Basic Operations**: Addition, Subtraction, Multiplication, Division  
+- ✅ **Advanced Functions**: `sin`, `cos`, `tan` (in degrees), `log`, `√`, `x^y`  
+- ✅ **Calculation History**: Keeps track of the last 10 calculations  
+- ✅ **Backspace & Clear** buttons  
+- ✅ **Modern Dark-Themed GUI** with color-coded buttons  
+
+---
+
+## 📸 Screenshot
+<img width="729" height="952" alt="image" src="https://github.com/user-attachments/assets/5fb28a15-5bcf-4af0-a173-c8a8de1dacb9" />
+
+
